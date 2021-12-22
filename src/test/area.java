@@ -7,6 +7,7 @@ public class area {
 		
 		System.out.println("area of circle = 240r");
 		System.out.println("area of rectangle = 2555550r");
+		System.out.println("area of tringle = 2555550r");
 	}
 
 }
